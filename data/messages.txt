@@ -1,0 +1,7 @@
+Do ::commands for more help!
+The icon with the green-tick on paper is your own private cPanel. 
+This is a "private" server for only people in the group. Pls no leak.
+Currently still messing around with the source.
+Pls report bugs/glitches or anything!
+You can invite people as long as they're cool and don't do anything dumb. (E.g: DDoS)
+Only 1 account is an Admin (Dev), the rest is server-sided.

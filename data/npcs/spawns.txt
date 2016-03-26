@@ -1,0 +1,3262 @@
+//Fisherman spawned by arcanestream
+15568 - 2828 3439 0
+//Fisherman spawned by arcanestream
+15568 - 3658 5117 0
+//Kaqemeex spawned by arcanestream
+455 - 2916 9673 0
+//Kaqemeex spawned by arcanestream
+455 - 2918 9673 0
+//K'ril Tsutsaroth spawned by kye
+6203 - 2916 9801 0
+//Chaos dwogre spawned by kye
+8771 - 2916 9800 0
+//RSBOT DUMPED - Armoured zombie, 85, 17424
+8153 - 3239 9993 0
+//RSBOT DUMPED - Armoured zombie, 85, 17428
+8152 - 3239 9992 0
+//RSBOT DUMPED - Armoured zombie, 85, 17426
+8149 - 3244 9995 0
+//RSBOT DUMPED - Armoured zombie, 85, 17425
+8151 - 3240 9999 0
+//RSBOT DUMPED - Armoured zombie, 85, 17429
+8150 - 3244 9998 0
+//RSBOT DUMPED - Armoured zombie, 85, 17413
+8152 - 3226 10008 0
+//RSBOT DUMPED - Armoured zombie, 85, 17414
+8153 - 3226 10009 0
+//RSBOT DUMPED - Armoured zombie, 85, 17416
+8153 - 3231 10010 0
+//RSBOT DUMPED - Armoured zombie, 85, 17420
+8152 - 3227 10008 0
+//RSBOT DUMPED - Armoured zombie, 85, 17418
+8149 - 3228 10012 0
+//RSBOT DUMPED - Armoured zombie, 85, 17417
+8150 - 3228 10011 0
+//RSBOT DUMPED - Armoured zombie, 85, 17415
+8151 - 3229 10012 0
+//RSBOT DUMPED - Armoured zombie, 85, 17419
+8152 - 3226 10013 0
+//RSBOT DUMPED - Armoured zombie, 85, 17378
+8155 - 3242 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17381
+8157 - 3243 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17385
+8156 - 3244 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17387
+8154 - 3245 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17389
+8158 - 3246 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17391
+8157 - 3247 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17393
+8155 - 3248 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17396
+8156 - 3249 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17397
+8154 - 3250 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17399
+8156 - 3251 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17400
+8157 - 3252 10025 0
+//RSBOT DUMPED - Armoured zombie, 85, 17410
+8153 - 3221 10012 0
+//RSBOT DUMPED - Armoured zombie, 85, 17411
+8151 - 3220 10012 0
+//RSBOT DUMPED - Armoured zombie, 85, 17404
+8150 - 3209 10026 0
+//RSBOT DUMPED - Armoured zombie, 85, 17401
+8149 - 3206 10028 0
+//RSBOT DUMPED - Armoured zombie, 85, 17403
+8152 - 3210 10030 0
+//RSBOT DUMPED - Armoured zombie, 85, 17405
+8151 - 3206 10032 0
+//RSBOT DUMPED - Armoured zombie, 85, 17402
+8153 - 3208 10032 0
+//RSBOT DUMPED - Armoured zombie, 85, 17409
+8153 - 3212 10035 0
+//RSBOT DUMPED - Armoured zombie, 85, 17408
+8152 - 3218 10036 0
+//RSBOT DUMPED - Armoured zombie, 85, 17406
+8151 - 3211 10038 0
+//RSBOT DUMPED - Armoured zombie, 85, 17412
+8149 - 3219 10038 0
+//RSBOT DUMPED - Armoured zombie, 85, 17407
+8150 - 3213 10040 0
+//RSBOT DUMPED - Armoured zombie, 85, 17421
+8149 - 3231 10035 0
+//RSBOT DUMPED - Armoured zombie, 85, 17422
+8152 - 3236 10034 0
+//RSBOT DUMPED - Armoured zombie, 85, 17423
+8150 - 3237 10036 0
+//RSBOT DUMPED - Armoured zombie, 85, 17427
+8151 - 3241 10041 0
+//RSBOT DUMPED - Armoured zombie, 85, 17379
+8154 - 3242 10027 0
+//RSBOT DUMPED - Armoured zombie, 85, 17380
+8157 - 3242 10029 0
+//RSBOT DUMPED - Armoured zombie, 85, 17382
+8156 - 3243 10027 0
+//RSBOT DUMPED - Armoured zombie, 85, 17383
+8154 - 3243 10029 0
+//RSBOT DUMPED - Armoured zombie, 85, 17386
+8155 - 3244 10027 0
+//RSBOT DUMPED - Armoured zombie, 85, 17388
+8156 - 3245 10027 0
+//RSBOT DUMPED - Armoured zombie, 85, 17390
+8158 - 3246 10027 0
+//RSBOT DUMPED - Armoured zombie, 85, 17431
+8149 - 3247 10042 0
+//RSBOT DUMPED - Armoured zombie, 85, 17433
+8151 - 3246 10042 0
+//RSBOT DUMPED - Armoured zombie, 85, 17430
+8150 - 3247 10043 0
+//RSBOT DUMPED - Armoured zombie, 85, 17435
+8153 - 3248 10042 0
+//RSBOT DUMPED - Armoured zombie, 85, 17432
+8152 - 3249 10044 0
+//RSBOT DUMPED - Armoured zombie, 85, 17434
+8150 - 3254 10044 0
+//RSBOT DUMPED - Armoured zombie, 85, 18504
+8159 - 3278 10030 0
+//Chaos dwogre spawned by kye
+8771 - 2916 9800 0
+//Luitger spawned by kye
+13358 - 2918 9800 0
+//Chaos dwogre spawned by kye
+13356 - 2921 9802 0
+//GLACORS
+14301 - 4194 5716 0
+14301 - 4190 5708 0
+14301 - 4182 5708 0
+14301 - 4174 5722 0
+14301 - 4192 5720 0
+14301 - 4203 5716 0
+14301 - 4176 5721 0
+14301 - 4171 5715 0
+14301 - 4184 5717 0
+14301 - 4212 5710 0
+14301 - 4212 5718 0
+//Ganodermic
+14696 - 4710 5461 0
+14696 - 4710 5453 0
+14696 - 4704 5451 0
+14696 - 4697 5449 0
+14696 - 4698 5459 0
+14696 - 4699 5470 0
+14696 - 4700 5476 0
+14696 - 4705 5484 0
+14696 - 4719 5487 0
+14696 - 4716 5475 0
+//Jadinko Lair's NPCS
+13820 - 3017 9261 0
+13820 - 3014 9259 0
+13820 - 3016 9255 0
+13820 - 3017 9251 0
+13820 - 3022 9253 0
+13820 - 3024 9256 0
+13820 - 3024 9259 0
+13822 - 3046 9272 0
+13822 - 3047 9269 0
+13822 - 3045 9266 0
+13822 - 3047 9264 0
+13822 - 3044 9262 0
+13821 - 3062 9250 0
+13821 - 3063 9247 0
+13821 - 3062 9244 0
+13821 - 3058 9243 0
+13821 - 3056 9247 0
+13821 - 3058 9238 0
+//Dagannoth Supreme spawned by kye
+2881 - 2912 4444 0
+//Dagannoth Rex spawned by kye
+2883 - 2913 4446 0
+//Dagannoth Rex spawned by kye
+2883 - 2913 4446 0
+//Dagannoth Rex spawned by kye
+2883 - 2913 4446 0
+//Dagannoth Rex spawned by kye
+2883 - 2913 4446 0
+//Dagannoth Rex spawned by kye
+2883 - 2913 4446 0
+//Dagannoth Rex spawned by kye
+2883 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2914 4443 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2913 4446 0
+//Dagannoth Prime spawned by kye
+2882 - 2911 4460 0
+//Man spawned by kye
+1 - 2903 4443 0
+//Man spawned by kye
+1 - 2903 4444 0
+//Man spawned by kye
+1 - 2902 9679 0
+//Spider spawned by kye
+61 - 2901 9688 0
+//Frost dragon spawned by kye
+51 - 2902 9688 0
+//Larry spawned by kye
+1780 - 2917 9674 0
+//Dagannoth Supreme spawned by kye
+2881 - 2925 4445 0
+//Dagannoth Prime spawned by kye
+2882 - 2917 4441 0
+//Dagannoth Rex spawned by kye
+2883 - 2905 4439 0
+//Harry spawned by arcanestream
+576 - 2899 9686 0
+//Harry spawned by arcanestream
+576 - 2895 9686 0
+//null spawned by kye
+6221 - 2891 5322 0
+//Spirit tree spawned by kye
+6321 - 2890 5322 0
+//Spiritual mage spawned by kye
+6231 - 2889 5323 0
+//null spawned by kye
+6257 - 2894 5322 0
+//null spawned by kye
+6257 - 2898 5315 0
+//null spawned by kye
+6257 - 2895 5308 0
+//null spawned by kye
+6257 - 2890 5307 0
+//null spawned by kye
+6257 - 2886 5306 0
+//null spawned by kye
+6257 - 2882 5300 0
+//null spawned by kye
+6257 - 2880 5297 0
+//null spawned by kye
+6257 - 2872 5298 0
+//Spiritual mage spawned by kye
+6278 - 2870 5310 0
+//null spawned by kye
+6257 - 2866 5308 0
+//null spawned by kye
+6257 - 2865 5302 0
+//null spawned by kye
+6257 - 2864 5297 0
+//null spawned by kye
+6257 - 2865 5290 0
+//null spawned by kye
+6257 - 2865 5290 0
+//null spawned by kye
+6257 - 2868 5288 0
+//null spawned by arcanestream
+734 - 2928 3450 0
+//Melee Tutor spawned by arcanestream
+7950 - 2927 3450 0
+//null spawned by arcanestream
+94194 - 2927 3449 0
+//Max spawned by arcanestream
+3374 - 2928 3447 0
+//Man spawned by arcanestream
+1 - 3501 3616 0
+//Man spawned by arcanestream
+1 - 2707 3716 0
+//Man spawned by arcanestream
+1 - 2707 3716 0
+//Man spawned by arcanestream
+1 - 2709 3716 0
+//Man spawned by arcanestream
+1 - 2706 3717 0
+//Man spawned by arcanestream
+1 - 2706 3717 0
+//Man spawned by arcanestream
+1 - 2709 3716 0
+//Man spawned by arcanestream
+1 - 2709 3716 0
+//Man spawned by arcanestream
+1 - 2709 3716 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2705 3715 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Man spawned by arcanestream
+1 - 2723 3476 0
+//Tanner spawned by kye
+804 - 3273 3194 0
+//Ellis spawned by kye
+2824 - 3273 3195 0
+//Nex spawned by kye
+13450 - 2908 9692 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 3411 3550 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Man spawned by arcanestream
+1 - 2601 3420 0
+//Spider spawned by kye
+61 - 2899 9694 0
+//Frost dragon spawned by kye
+51 - 2898 9693 0
+//Frost dragon spawned by kye
+51 - 2900 9691 0
+//Nex spawned by kye
+13450 - 2903 9693 0
+//Hairdresser spawned by kye
+598 - 2919 9696 0
+//Thessalia spawned by kye
+548 - 2918 9696 0
+//null spawned by kye
+599 - 2916 9696 0
+//null spawned by kye
+2676 - 2917 9697 0
+//Frost dragon spawned by kye
+51 - 2898 9681 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3170 3324 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3172 3325 0
+//Man spawned by kye
+1 - 3170 3326 0
+//TzTok-Jad spawned by arcanestream
+2745 - 92 104 0
+//TzTok-Jad spawned by arcanestream
+2745 - 2899 9681 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Man spawned by arcanestream
+1 - 2909 9689 0
+//Turael spawned by arcanestream
+8273 - 2928 9692 1
+//Turael spawned by arcanestream
+8302 - 2928 9693 1
+//Turael spawned by arcanestream
+8461 - 2928 9693 1
+//null spawned by arcanestream
+1597 - 2927 9693 1
+//Farmer spawned by verzion
+15001 - 2799 3461 0
+//Farmer spawned by verzion
+15002 - 2797 3460 0
+//Master Farmer spawned by verzion
+15853 - 2795 3459 0
+//Head Farmer Jones spawned by verzion
+14861 - 2795 3459 0
+//Head Farmer Jones spawned by verzion
+14860 - 2794 3460 0
+//Head Farmer Jones spawned by verzion
+14860 - 3213 3424 0
+//Head Farmer Jones spawned by verzion
+14860 - 3216 3428 0
+//Head Farmer Jones spawned by verzion
+14860 - 3225 3458 0
+//Hunting expert spawned by verzion
+5112 - 2528 2919 0
+//Hunting expert spawned by verzion
+5113 - 2528 2918 0
+//Gem trader spawned by verzion
+540 - 3323 3496 0
+//Gem trader spawned by verzion
+540 - 3322 3495 0
+//Monkey spawned by verzion
+132 - 3207 3430 0
+//Penguin spawned by verzion
+131 - 3207 3431 0
+//Shop assistant spawned by verzion
+523 - 3320 3496 0
+//Nostrillia spawned by verzion
+15605 - 2159 5100 0
+//null spawned by verzion
+49220 - 3375 3089 0
+//Larry spawned by enth
+1780 - 2990 3293 0
+//Mugger spawned by enth
+175 - 3084 3498 0
+//Man spawned by enth
+1 - 3086 3495 0
+//Man spawned by enth
+1 - 3087 3492 0
+//Hairdresser spawned by enth
+598 - 3093 3492 0
+//Man spawned by enth
+1 - 3093 3492 0
+//Wizard Vief spawned by enth
+8030 - 3082 3494 0
+//Green orb spawned by enth
+8028 - 3082 3493 0
+//Wizard spawned by enth
+8036 - 3082 3492 0
+//Wizard Elriss spawned by enth
+8032 - 3083 3491 0
+//Wizard Elriss spawned by enth
+8032 - 3083 3490 0
+//Pet Corp spawned by dev
+19099 - 3087 3500 0
+//Man spawned by dev
+1 - 2990 4386 2
